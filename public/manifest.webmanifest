@@ -1,0 +1,13 @@
+{
+  "name": "Loksewa Civil MCQ Trainer",
+  "short_name": "Loksewa",
+  "description": "Personal local-first practice for Nepal PSC Level 7 Civil Paper I.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3efe6",
+  "theme_color": "#0e4d5c",
+  "lang": "en",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

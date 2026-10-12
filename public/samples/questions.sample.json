@@ -1,0 +1,21 @@
+[
+  {
+    "stem": "Sample import: how many sides does a triangle have?",
+    "options": [
+      { "key": "A", "text": "3" },
+      { "key": "B", "text": "4" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "6" }
+    ],
+    "correctOption": "A",
+    "nodeCode": "SR",
+    "difficulty": "easy",
+    "language": "en",
+    "shortExplanation": "A triangle has three sides. This sample is original demo content.",
+    "sourceType": "original",
+    "sourceName": "Original sample import",
+    "rightsStatus": "original",
+    "reviewStatus": "live",
+    "attribution": "Original sample for the import preview. Not an official PSC question."
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "stem": "Broken sample",
+    "options": [{ "key": "A", "text": "Only one" }],
+    "correctOption": "Z",
+    "nodeCode": "NOT-A-TOPIC",
+    "reviewStatus": "published"
+  }
+]
